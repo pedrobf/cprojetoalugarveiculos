@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1510781399 source:c:\users\axew\desktop\c languagecodeblocks\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+
+1511637358 source:c:\users\axew\downloads\pim-alterado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+
+1511744818 source:c:\users\axew\downloads\pim-alterado 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+
+1511724294 source:c:\users\pedro\appdata\local\microsoft\windows\burn\burn\pim dexti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+
